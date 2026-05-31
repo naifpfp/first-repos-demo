@@ -1,2 +1,3 @@
 # first-repos-demo
-my first git repos 
+my first git repos.
+Author-naif
